@@ -1,0 +1,187 @@
+# 
+# This is the geometry file that corresponds to the current relaxation step.
+# If you do not want this file to be written, set the "write_restart_geometry" flag to .false.
+#  aims_uuid : 392E1597-A384-404D-A147-9A8518B65A81                                
+# 
+atom      17.34425000     23.95571000     23.81962000 H
+  constrain_relaxation .true.
+atom      16.53695000     23.23868000     23.67060000 C
+  constrain_relaxation .true.
+atom      17.67373000     22.04316000     22.26811000 H
+  constrain_relaxation .true.
+atom      -1.74553000     28.60509000     22.47089000 H
+  constrain_relaxation .true.
+atom      16.72448000     22.17254000     22.78748000 C
+  constrain_relaxation .true.
+atom      -1.07558000     28.01685000     23.09762000 C
+  constrain_relaxation .true.
+atom       1.09212000     28.92771000     21.53918000 S
+  constrain_relaxation .true.
+atom      -2.62954000     27.34993000     24.42743000 H
+  constrain_relaxation .true.
+atom      15.20447000     24.22198000     25.05791000 H
+  constrain_relaxation .true.
+atom      -1.56356000     27.31419000     24.20254000 C
+  constrain_relaxation .true.
+atom      15.34078000     23.39248000     24.36605000 C
+  constrain_relaxation .true.
+atom       0.29606000     27.96824000     22.81460000 C
+  constrain_relaxation .true.
+atom      -0.71214000     26.57685000     25.02343000 C
+  constrain_relaxation .true.
+atom       1.15874000     27.22530000     23.62325000 C
+  constrain_relaxation .true.
+atom       0.66907000     26.52235000     24.74129000 C
+  constrain_relaxation .true.
+atom      -1.10398000     26.03611000     25.88343000 H
+  constrain_relaxation .true.
+atom      15.68244000     21.25340000     22.58566000 C
+  constrain_relaxation .true.
+atom      15.87098000     19.78914000     21.58210000 S
+  constrain_relaxation .true.
+atom       2.22305000     27.18975000     23.39718000 H
+  constrain_relaxation .true.
+atom      14.29495000     22.46224000     24.18686000 C
+  constrain_relaxation .true.
+atom       1.59886000     25.78062000     25.51201000 C
+  constrain_relaxation .true.
+atom      14.47783000     21.39848000     23.27952000 C
+  constrain_relaxation .true.
+atom       4.87565261     24.90903361     24.89855733 H
+atom      13.06956000     22.54058000     24.89492000 C
+  constrain_relaxation .true.
+atom       2.50302000     25.16625000     26.05527000 C
+  constrain_relaxation .true.
+atom       4.78228000     24.32721000     25.81465000 C
+  constrain_relaxation .true.
+atom      11.99028000     22.49497000     25.46343000 C
+  constrain_relaxation .true.
+atom       3.58546534     24.40189487     26.55639106 C
+atom       6.72632382     23.44462037     25.61596711 H
+atom       5.82295704     23.49950919     26.22241609 C
+atom      13.67164000     20.68258000     23.12839000 H
+  constrain_relaxation .true.
+atom      10.53186899     24.26684015     26.94305284 H
+atom      10.71722333     22.30091015     26.05676072 C
+atom      10.04958147     23.30154861     26.79408306 C
+atom       3.49658861     23.66025330     27.75249077 C
+atom       8.78299331     23.06725786     27.31771659 C
+atom      10.07791627     21.05461041     25.90073109 C
+atom       8.28888126     23.85600920     27.88569098 H
+atom      10.58960880     20.26218792     25.35626383 H
+atom       5.70709943     22.71910735     27.37960092 C
+atom       2.58724700     23.71802869     28.34932595 H
+atom       8.13011638     21.84016517     27.11882168 C
+atom       8.81058823     20.83285220     26.42584965 C
+atom       4.54175988     22.83665886     28.15008959 C
+atom       6.72487000     21.59759000     27.71817000 C
+  constrain_relaxation .true.
+atom       8.34447164     19.85917829     26.28816126 H
+atom       4.44211963     22.24457978     29.05986746 H
+atom       6.07024594     20.31439766     27.14936242 C
+atom       6.04668453     21.07224817     25.11975598 H
+atom       5.77849526     20.24648048     25.77747311 C
+atom       5.92257829     19.27678147     29.02823029 H
+atom       5.69941031     19.24110237     27.96220252 C
+atom       5.13338164     19.14628004     25.23661170 C
+atom       4.90660236     19.11251735     24.17181773 H
+atom       5.03588369     18.13509137     27.43135945 C
+atom       4.73273365     18.07238618     26.05978519 C
+atom       4.73780500     17.31356598     28.08153193 H
+atom       3.99966000     16.99530000     25.49568000 C
+  constrain_relaxation .true.
+atom       3.32555000     16.13738000     24.95127000 C
+  constrain_relaxation .true.
+atom       4.02132000     14.32680000     23.08339000 H
+  constrain_relaxation .true.
+atom       2.47006000     15.19687000     24.31948000 C
+  constrain_relaxation .true.
+atom       2.96344000     14.31161000     23.34040000 C
+  constrain_relaxation .true.
+atom       1.09937000     15.16315000     24.65122000 C
+  constrain_relaxation .true.
+atom       0.72163000     15.84980000     25.40698000 H
+  constrain_relaxation .true.
+atom       2.09582000     13.41576000     22.70909000 C
+  constrain_relaxation .true.
+atom       2.72772000     12.16990000     21.59991000 S
+  constrain_relaxation .true.
+atom       0.24399000     14.27379000     24.00754000 C
+  constrain_relaxation .true.
+atom       0.72943000     13.40076000     23.03603000 C
+  constrain_relaxation .true.
+atom      -0.81597000     14.26047000     24.26096000 H
+  constrain_relaxation .true.
+atom       0.06122000     12.70147000     22.53509000 H
+  constrain_relaxation .true.
+atom      -0.03570000     29.33458000     20.91420000 H
+  constrain_relaxation .true.
+atom       1.51944000     11.72180000     21.19759000 H
+  constrain_relaxation .true.
+atom      17.03980000     20.14982000     21.00745000 H
+  constrain_relaxation .true.
+atom       6.91528000     21.51178000     29.17061000 C
+  constrain_relaxation .true.
+atom       7.11606000     21.45627000     30.36984000 C
+  constrain_relaxation .true.
+atom       9.56457873     22.76610598     35.95039113 H
+  constrain_relaxation .true.
+atom      10.08172597     22.68288500     38.37177655 H
+  constrain_relaxation .true.
+atom       9.06617101     22.03362292     36.58628644 C
+  constrain_relaxation .true.
+atom       9.35219769     21.99287334     37.94815630 C
+  constrain_relaxation .true.
+atom       9.51469171     21.48202141     31.58029684 H
+  constrain_relaxation .true.
+atom       9.92330261     21.34434612     34.01732072 H
+  constrain_relaxation .true.
+atom       8.67744748     21.41527791     32.27357483 C
+  constrain_relaxation .true.
+atom       8.89963952     21.34409472     33.64165702 C
+  constrain_relaxation .true.
+atom       7.36167389     21.38887489     31.76936493 C
+  constrain_relaxation .true.
+atom       7.83947630     21.24000257     34.56019498 C
+  constrain_relaxation .true.
+atom       8.11898070     21.16791453     36.01099981 C
+  constrain_relaxation .true.
+atom       8.69201896     21.07414751     38.76622913 C
+  constrain_relaxation .true.
+atom       8.90389766     21.03405245     39.83452342 H
+  constrain_relaxation .true.
+atom       6.29706809     21.29463036     32.68436590 C
+  constrain_relaxation .true.
+atom       6.51426643     21.22449869     34.06208601 C
+  constrain_relaxation .true.
+atom       5.43532165     21.94399815     35.77025610 H
+  constrain_relaxation .true.
+atom       5.32895583     21.16821748     34.99058845 C
+  constrain_relaxation .true.
+atom       5.27495949     21.28964835     32.30459011 H
+  constrain_relaxation .true.
+atom       7.46030356     20.22974451     36.84110595 C
+  constrain_relaxation .true.
+atom       7.75685615     20.20337252     38.20985788 C
+  constrain_relaxation .true.
+atom       4.38964302     21.35997745     34.45972646 H
+  constrain_relaxation .true.
+atom       5.17729738     19.85309357     35.75456375 C
+  constrain_relaxation .true.
+atom       7.24952732     19.47532283     38.84491422 H
+  constrain_relaxation .true.
+atom       6.47474079     19.23876672     36.27765173 C
+  constrain_relaxation .true.
+atom       6.92238511     18.72566321     35.40721658 H
+  constrain_relaxation .true.
+atom       4.09580653     19.33216096     35.93385202 O
+  constrain_relaxation .true.
+atom       6.21066839     18.46984097     37.01255953 H
+  constrain_relaxation .true.
+# 
+# What follows is the current estimated Hessian matrix constructed by the BFGS algorithm.
+# This is NOT the true Hessian matrix of the system.
+# If you do not want this information here, switch it off using the "hessian_to_restart_geometry" keyword.
+# 
+trust_radius             0.2000000030
+hessian_file
